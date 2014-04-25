@@ -7,7 +7,7 @@ The run_analysis.R file will give you the tidy data set with the average of each
 * Line 10 and line 16 contains variables subject, activity and the measurement we extract before. 
 * Line 18 merges the training and the test sets to create one data set.
 * Data set for each subject and activity in line 19 and 21
-* The average of each variable in line 20 and 22 using comand sapply.
+* The average of each variable in line 20 and 22 using sapply. (For each subject and activity not pair of them)
 * Line 23 output the final result.
 
 The run_analysis.R file can be run as long as the Samsung data is in your working directory.
