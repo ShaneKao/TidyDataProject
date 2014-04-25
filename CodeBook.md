@@ -3,4 +3,4 @@ The tidy data set with the average of each variable for each activity and each s
 
 ### Variable
 * subject: categorical variable contains 1,2,...,30
-* activity: categorical variable contains WALKING WALKING UPSTAIRS WALKING DOWNSTAIRS SITTING STANDING and LAYING.
+* activity: categorical variable contains walking, walking upstairs, walking downstairs, sitting, standing, and laying.
